@@ -6,7 +6,7 @@ using System.Net.Http.Headers;
 namespace GoogleApi;
 
 /// <summary>
-///   Provide a default global httpClient and a factory a factory method
+/// Provide a default global httpClient and a factory a factory method
 /// </summary>
 public static class HttpClientFactory
 {

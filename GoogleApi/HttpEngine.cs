@@ -13,7 +13,7 @@ namespace GoogleApi;
 
 /// <summary>
 /// Http Engine.
-    /// Manges the http connections, and is responsible for invoking requst and handling responses.
+/// Manges the http connections, and is responsible for invoking requst and handling responses.
 /// </summary>
 /// <typeparam name="TRequest"></typeparam>
 /// <typeparam name="TResponse"></typeparam>
